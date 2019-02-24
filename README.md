@@ -2,7 +2,7 @@
 
 
 # Download
-[Releases](https://github.com/hex4d0r/GUI-for-GoodbyeDPI/releases/download/v1.0.5/)
+[Releases](https://github.com/Include-sys/GUI-for-GoodbyeDPI/releases)
 
 
 
